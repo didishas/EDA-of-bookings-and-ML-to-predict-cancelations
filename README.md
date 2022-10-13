@@ -30,3 +30,15 @@ Maybe some hotels also use such a model to offer more rooms than they have to ma
 
 3. Evaluate Feature importance
 Which features are most important to predict cancelations?
+
+## Datasets Description
++ hotel _Hotel _H1 = Resort Hotel or H2 = City Hotel)_
++ is_canceled _Value indicating if the booking was canceled (1) or not (0)_
++ lead_time _Number of days that elapsed between the entering date of the booking into the PMS and the arrival date_
++ arrival_date_year _Year of arrival date_
++arrival_date_month _Month of arrival date_
++ arrival_date_week_number _Week number of year for arrival date_
++ arrival_date_day_of_month _Day of arrival date_
++ stays_in_weekend_nights _Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel_
++ stays_in_week_nights _Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel_
++ adults _Number of adult_
