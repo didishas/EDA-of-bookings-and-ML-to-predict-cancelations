@@ -10,7 +10,8 @@ From the publication (https://www.sciencedirect.com/science/article/pii/S2352340
 The data contains "**bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017**".
 Note: _For most questions I will only use bookings that were not canceled, to get acutal guest numbers. As you will see, this is quite a big difference._
 
-Topics covered and questions to answer from the data:
+>[Questions]
+>Topics covered and questions to answer from the data:
 
 Where do the guests come from?
 How much do guests pay for a room per night?
