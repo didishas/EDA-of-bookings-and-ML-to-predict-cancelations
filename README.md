@@ -13,15 +13,15 @@ Note: _For most questions I will only use bookings that were not canceled, to ge
 >[Questions]
 >Topics covered and questions to answer from the data:
 
-Where do the guests come from?
-How much do guests pay for a room per night?
-How does the price per night vary over the year?
-Which are the most busy month?
-How long do people stay at the hotels?
-Bookings by market segment
-How many bookings were canceled?
-Which month have the highest number of cancelations?
-Do you have more questions? Tell me in the comments and I will see if I can answer them. :)
++ Where do the guests come from?
++ How much do guests pay for a room per night?
++ How does the price per night vary over the year?
++ Which are the most busy month?
++ How long do people stay at the hotels?
++ Bookings by market segment
++ How many bookings were canceled?
++ Which month have the highest number of cancelations?
++ Do you have more questions? Tell me in the comments and I will see if I can answer them. :)
 
 2. Predicting cancelations
 It would be nice for the hotels to have a model to predict if a guest will actually come.
